@@ -1,0 +1,10 @@
+attr~=0.3.2
+attrs~=25.3.0
+pandas~=2.2.3
+tiktoken
+sentence-transformers~=4.0.2
+torch~=2.6.0
+tqdm~=4.67.1
+matplotlib~=3.10.1
+seaborn~=0.13.2
+plotly~=6.0.1
